@@ -1,0 +1,13 @@
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp3.1\ProjetoFinal.exe
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp3.1\ProjetoFinal.deps.json
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp3.1\ProjetoFinal.runtimeconfig.json
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp3.1\ProjetoFinal.runtimeconfig.dev.json
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp3.1\ProjetoFinal.dll
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp3.1\ProjetoFinal.pdb
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp3.1\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp3.1\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp3.1\ProjetoFinal.AssemblyInfo.cs
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp3.1\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp3.1\ProjetoFinal.dll
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp3.1\ProjetoFinal.pdb
+C:\Users\Phelippe A. Gomes\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp3.1\ProjetoFinal.genruntimeconfig.cache
