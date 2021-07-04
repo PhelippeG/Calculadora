@@ -9,7 +9,7 @@ namespace ProjetoFinal
     {
         public static int UltimoClienteCadastrado = 0;
         public static List<Cliente> Clientes = new List<Cliente>();
-        // ...
+        
         static void Main(string[] args)
         {
             string opcao = "";
